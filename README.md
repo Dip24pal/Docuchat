@@ -18,8 +18,8 @@ A brief description of what this project does and who it's for
 **1.Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-repo/pathway-llm-interface.git
-cd pathway-llm-interface
+git clone https://github.com/Dip24pal/Docuchat.git
+cd Docuchat
 ```
 **2.Install the Dependencies: Make sure you have Docker installed, then run the following:**
 ```bash
@@ -41,6 +41,7 @@ docker-compose up
 ## Usage
 
 **Upload Documents:**Use the sidebar to navigate to the "Upload Documents" section. Select one or more PDF files and upload them. Uploaded files are stored in the /app/data directory.
+![upload](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685586/ezgif-5-0869929e91_g3d7kt.gif)
 
 **Manage Documents:** In the "Manage Documents" section, you can view all uploaded PDFs and delete them as needed.
 
@@ -49,8 +50,12 @@ docker-compose up
 - Select an uploaded PDF and type in your question.
 - The application will send the document and question to the backend for processing, and the LLM will generate a response based on the document content.
 
+![ask](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685609/ezgif-5-cb0003c666_d8w7si.gif)
+
 **Search search articles:** Enter a topic in the "Search research articles" section and specify the maximum number of results.
 The application will retrieve and display recent research papers from arXiv based on the specified topic.
+
+![search article](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685625/ezgif-5-c9b50c83cf_ltjlid.gif)
 
 ## Contributing
 
