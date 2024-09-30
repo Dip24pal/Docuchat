@@ -26,8 +26,8 @@ cd Docuchat
 ```
 **2.Install the Dependencies: Make sure you have Docker installed, then run the following:**
 ```bash
-docker build -t pathway-llm .
-docker run -p 8501:8501 pathway-llm
+docker build -t docuchat .
+docker run -p 8501:8501 docuchat
 ```
 **Alternatively, you can use pip to install dependencies:**
 ```bash
