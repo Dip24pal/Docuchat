@@ -7,6 +7,7 @@ A brief description of what this project does and who it's for
 
 ![img](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685081/Screenshot_2024-09-30_021447_ctqetl.png)
 
+![img](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685081/Screenshot_2024-09-30_135613_rfv19l.png)
 
 ## Features
 
