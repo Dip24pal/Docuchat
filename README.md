@@ -1,5 +1,5 @@
 <h1 align="center"> LLM Document Assistant </h1> <p align="center"> <img src="https://static.vecteezy.com/system/resources/thumbnails/010/214/734/small_2x/llm-letter-technology-logo-design-on-white-background-llm-creative-initials-letter-it-logo-concept-llm-letter-design-vector.jpg" alt="Logo" width="200"/> </p>
-LLM Document Assistant is designed to efficiently handle document processing and querying, providing accurate results by leveraging powerful Language Learning Models (LLMs). It integrates document uploading, parsing, and response generation using OpenAI's models, offering both ease of use and detailed insights.
+LLM Document Assistant is designed to efficiently handle document processing and querying, providing accurate results by leveraging powerful Language Learning Models (LLMs). It integrates document uploading, parsing, and response generation using Gemini's models, offering both ease of use and detailed insights.
 
 # Project Title
 
