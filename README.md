@@ -5,6 +5,8 @@ LLM Document Assistant is designed to efficiently handle document processing and
 
 A brief description of what this project does and who it's for
 
+![img](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685081/Screenshot_2024-09-30_021447_ctqetl.png)
+
 
 ## Features
 
@@ -55,7 +57,7 @@ docker-compose up
 **Search search articles:** Enter a topic in the "Search research articles" section and specify the maximum number of results.
 The application will retrieve and display recent research papers from arXiv based on the specified topic.
 
-![search article](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685625/ezgif-5-c9b50c83cf_ltjlid.gif)
+![search](https://res.cloudinary.com/dzcqq0wvy/image/upload/v1727685625/ezgif-5-c9b50c83cf_ltjlid.gif)
 
 ## Contributing
 
